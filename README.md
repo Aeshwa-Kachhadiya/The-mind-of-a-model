@@ -44,4 +44,4 @@ LinkedIn Post Performance Dataset
 
 ## Follow Along
 
-LinkedIn → [Your LinkedIn URL]
+LinkedIn → [Aeshwaka Chhadiya](https://www.linkedin.com/in/aeshwakachhadiya/)
