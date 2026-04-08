@@ -15,7 +15,7 @@ A 10-day Machine Learning series documenting the complete journey from raw data 
 - Day 07 → Hyperparameter Tuning
 - Day 08 → Model Comparison
 - Day 09 → Model Deployment
-- Day 10 → MLOps + What comes next
+- Day 10 → MLOps 
 
 ---
 
